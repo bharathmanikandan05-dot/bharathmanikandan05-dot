@@ -93,9 +93,7 @@ I define its rules, control its behavior, and hunt down bugs to keep it running 
 
 <div align="center">
 
-![Bharath's GitHub stats](https://github-readme-stats-two-delta-79.vercel.app/api?username=Bharath8071&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-two-delta-79.vercel.app/api/top-langs/?username=Bharath8071&layout=compact&theme=tokyonight&hide_border=true)
+![Bharath's GitHub stats](https://github-readme-stats-two-delta-79.vercel.app/api?username=Bharath8071&show_icons=true&theme=tokyonight&hide_border=true)![Top Langs](https://github-readme-stats-two-delta-79.vercel.app/api/top-langs/?username=Bharath8071&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
