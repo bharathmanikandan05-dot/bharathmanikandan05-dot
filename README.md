@@ -89,20 +89,6 @@ I define its rules, control its behavior, and hunt down bugs to keep it running 
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Generative AI Foundation | AWS Academy |
-| AI Fundamentals | Microsoft Azure |
-| Edge AI | Edge Impulse |
-| Generative AI | LinkedIn Learning |
-| MySQL for Data Management | LinkedIn Learning |
-| Introduction to Soft Skills | TCS iON |
-| Python Programming | PrepInsta |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
